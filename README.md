@@ -18,7 +18,7 @@
 
 
 ### Overview 
-In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as 
+In this project, the objective is to predict whether the person has Diabetes or not based on various features such as 
 - Pregnancies
 - Insulin Level
 - Age
@@ -32,7 +32,7 @@ Diabetes is an increasingly growing health issue due to our inactive lifestyle. 
 This is also sort of fun to work on a project like this which could be beneficial for the society. 
 
 ### Demo
-[Visit this link for live demo](https://mldiabete.herokuapp.com/)
+[Visit this link for live demo](https://Diabetech.herokuapp.com/)
 
 ### Learning Objective
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)  
@@ -55,14 +55,11 @@ The following points were the objective of the project . If you are looking for 
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
 
 ### Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Amangupta718/Diabetech/issues) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Amangupta718/Diabetech). Please include sample queries and their corresponding results.
 
 
 ### Installation 
@@ -73,14 +70,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Execute the command: python app.py
 
 ### Team  
-[![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
+[![Aman Gupta](https://github.com/Amangupta718/Diabetech) |
 -|
-[Ditikrushan Giri](https://ditikrushna.me/) |)
-
-
-### Credits 
-- Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
-- Icons by [Icons8](https://icons8.com/)
+[Aman Gupta](https://www.linkedin.com/in/aman-gupta-5b682921b/) |)
 
 ### Note:
 - Webapp can handle concurrency upto some extent but can be scaled.
